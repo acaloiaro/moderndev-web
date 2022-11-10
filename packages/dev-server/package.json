@@ -15,8 +15,8 @@
   "homepage": "https://github.com/modernweb-dev/web/tree/master/packages/dev-server",
   "main": "dist/index.js",
   "bin": {
-    "web-dev-server": "./dist/bin.js",
-    "wds": "./dist/bin.js"
+    "wds": "./dist/bin.js",
+    "web-dev-server": "./dist/bin.js"
   },
   "exports": {
     ".": {
